@@ -1,0 +1,12 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Vina+Sans&display=swap');
+
+.drop-shadow {
+  /* -webkit-box-shadow: 0px 0px 33px 0px #fcd53f;
+  -moz-box-shadow: 0px 0px 33px 0px #fcd53f; */
+  box-shadow: 0px 0px 33px 5px #fcd53f;
+}
+
+body {
+  background-color: #00d26a;
+}

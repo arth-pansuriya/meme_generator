@@ -1,0 +1,27 @@
+.card,
+canvas {
+  border: solid;
+  border-color: #fcd53f;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+label {
+  color: #00d26a;
+  font-weight: bold;
+}
+
+input {
+  border-color: #00d26a;
+}
+
+.app {
+  margin-top: 30px;
+}
+
+input::file-selector-button {
+  font-weight: bold;
+  padding: 0.5em;
+}
+
+
